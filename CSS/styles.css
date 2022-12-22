@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-color:  #355764
+color:  #355764;
 }
 
 h3 {
-  color: #355764
+  color: #355764;
 }
 
 hr {
@@ -16,5 +16,5 @@ hr {
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
-  width: 5%
+  width: 5%;
     }
