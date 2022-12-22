@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-color:  #FFFFFF;
+color:   #355764;
 }
 
 h3 {
@@ -15,7 +15,7 @@ hr {
 
    border-style: none;
   border-top-style: dotted;
-  border-color: black;
+  border-color: grey;
   border-width: 5px;
   width: 5%;
     }
